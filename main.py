@@ -8,7 +8,7 @@ import time
 
 
 bot_config = {
-	'name' : 'bot_25_enero',
+	'name' : 'bot_26_enero',
 	
 	'exchange' : {
 		'name' : 'binance',
